@@ -1,0 +1,155 @@
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\FormularioLoginYNomina.exe.config
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\FormularioLoginYNomina.exe
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\FormularioLoginYNomina.pdb
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.AssemblyReference.cache
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.Form1.resources
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.Properties.Resources.resources
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.GenerateResource.cache
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.exe
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.pdb
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.Form2.resources
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.AadAuthenticationProvider.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.UI.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.Azure.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.Azure.ResourceManager.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.Azure.Management.Sql.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Hyak.Common.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\System.Memory.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\System.Buffers.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\es\Microsoft.SqlServer.ConnectionDlg.Core.resources.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\es\Microsoft.SqlServer.ConnectionDlg.UI.resources.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\es\Microsoft.SqlServer.ConnectionDlg.VS.resources.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\es\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.resources.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\es\Microsoft.SqlServer.Tools.Extensibility.resources.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\es\Microsoft.VisualStudio.Shell.15.0.resources.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.exe.config
+C:\Users\jeanc\source\repos\Programcion basica\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.CopyComplete
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\FormularioLoginYNomina.exe.config
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\FormularioLoginYNomina.exe
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\FormularioLoginYNomina.pdb
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.AadAuthenticationProvider.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.UI.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.Azure.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Interop.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.Data.Tools.Components.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.Azure.ResourceManager.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.Azure.Common.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.Azure.Management.Sql.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Hyak.Common.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Memory.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Collections.Immutable.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Buffers.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Newtonsoft.Json.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Numerics.Vectors.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.IO.Pipelines.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\es\Microsoft.SqlServer.ConnectionDlg.Core.resources.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\es\Microsoft.SqlServer.ConnectionDlg.UI.resources.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\es\Microsoft.SqlServer.ConnectionDlg.VS.resources.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\es\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.resources.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\es\Microsoft.SqlServer.Tools.Extensibility.resources.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\es\Microsoft.VisualStudio.Shell.15.0.resources.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.AssemblyReference.cache
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.SuggestedBindingRedirects.cache
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.exe.config
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.Form1.resources
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.Form2.resources
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.Properties.Resources.resources
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.GenerateResource.cache
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.CoreCompileInputs.cache
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\Formular.F1564FAE.Up2Date
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.exe
+F:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.pdb
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\FormularioLoginYNomina.exe.config
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\FormularioLoginYNomina.exe
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\FormularioLoginYNomina.pdb
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.AadAuthenticationProvider.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.UI.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.Azure.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Interop.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.Azure.ResourceManager.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.Azure.Common.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.Azure.Management.Sql.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Hyak.Common.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Memory.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Collections.Immutable.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Buffers.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Newtonsoft.Json.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.Numerics.Vectors.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\System.IO.Pipelines.dll
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.AssemblyReference.cache
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.SuggestedBindingRedirects.cache
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.exe.config
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.Form1.resources
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.Form2.resources
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.Properties.Resources.resources
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.GenerateResource.cache
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.csproj.CoreCompileInputs.cache
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\Formular.F1564FAE.Up2Date
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.exe
+D:\ARCHIVOS\programacion\FormularioLoginYNomina\obj\Debug\FormularioLoginYNomina.pdb
